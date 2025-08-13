@@ -2,7 +2,6 @@
 🎯 <h4>Data-Driven Problem Solver | Aspiring Data Scientist & AI Specialist | Business-Tech Bridge Builder</h4>
 <h5 align="center">A passionate Data driven individual currently pursuing my Masters Degree In Data Science,AI and Digital Business at GISMA University of Applied Sciences. With a background in Information Technology and Business Administration, I bring a diverse skill set and a keen interest in data science and analytics. I have experience in conducting comprehensive exploratory data analysis, implementing machine learning algorithms, and leveraging data-driven insights to solve real-world problems. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business. My key interest lies solely in sharing my technical expertise and i thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.</h5>
 
-- 🔭 I’m currently working on
 - 🔭 Working on **Ethical Analysis of AI Algorithms** in credit risk assessment to detect and mitigate **gender bias**.
 - 🌱 Learning **Database Configuration**, **Predictive Modeling**, and **Deep Learning** techniques.
 - 👯 Looking to collaborate on **Natural Language Processing** and **Sentiment Analysis** projects.
