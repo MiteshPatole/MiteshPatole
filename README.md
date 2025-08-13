@@ -1,7 +1,27 @@
 <h3 align="center">Hi 👋, I'm Mitesh Patole</h1>
+🎯 <h4>Data-Driven Problem Solver | Aspiring Data Scientist & AI Specialist | Business-Tech Bridge Builder</h4>
 <h5 align="center">A passionate Data driven individual currently pursuing my Masters Degree In Data Science,AI and Digital Business at GISMA University of Applied Sciences. With a background in Information Technology and Business Administration, I bring a diverse skill set and a keen interest in data science and analytics. I have experience in conducting comprehensive exploratory data analysis, implementing machine learning algorithms, and leveraging data-driven insights to solve real-world problems. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business. My key interest lies solely in sharing my technical expertise and i thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.</h5>
 
-- 🔭 I’m currently working on *Ethical Analysis of AI Algorithm using a Dataset with gender biasness*
+- 🔭 I’m currently working on
+- 🔭 Working on **Ethical Analysis of AI Algorithms** in credit risk assessment to detect and mitigate **gender bias**.
+- 🌱 Learning **Database Configuration**, **Predictive Modeling**, and **Deep Learning** techniques.
+- 👯 Looking to collaborate on **Natural Language Processing** and **Sentiment Analysis** projects.
+
+---
+
+## 💼 Featured Projects
+- **📊 Exploratory Data Analysis & Predictive Modeling**  
+  Implemented Logistic Regression, Decision Trees, and Gradient Boosting; achieved an **85% accuracy** with improved performance via **feature engineering** & **hyperparameter tuning**.
+  
+- **💬 Sentiment Analysis of Android App Reviews**  
+  Used **CountVectorizer**, **TF-IDF**, and Logistic Regression; achieved **85% accuracy** in sentiment classification.
+
+- **⚖ Ethical AI in Credit Risk Assessment**  
+  Reduced **gender bias by 25%** using bias mitigation techniques; achieved a **90% fairness score** in ML pipelines.
+
+- **🏠 ML-Based Intrusion Detection System for Smart Homes**  
+  Leveraged IoT datasets (**IoT-23, BoT-IoT, ToN-IoT**); achieved **91.21% accuracy** with Random Forest while optimizing for **low computational overhead**.
+
 
 - 🌱 I’m currently learning *Database configuration, Data preprocessing, predictive modeling, and deep learning techniques.*
 
